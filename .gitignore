@@ -1,0 +1,23 @@
+# Local user config and secrets
+config.json
+*.local.json
+*.secret.json
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+*.old
+
+# Windows metadata
+Thumbs.db
+Desktop.ini
+
+# PowerShell artifacts
+*.ps1xml
+*.pssc
+*.psd1
+
+# Editor folders
+.vscode/
+.idea/
